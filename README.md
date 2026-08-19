@@ -91,13 +91,3 @@ streamlit run app.py
 Open `http://localhost:8501` in your browser.
 
 ---
-
-## 🌐 Deploying to Streamlit Community Cloud
-
-1. Push your project to GitHub (the included `.gitignore` will ensure your `.env` file and private keys are **not** committed).
-2. Go to [share.streamlit.io](https://share.streamlit.io) and create a new app pointing to your repository (`app.py`).
-3. Under **App Settings -> Secrets**, add your Groq API Key:
-   ```toml
-   GROQ_API_KEY = "your_actual_groq_api_key_here"
-   ```
-4. Deploy! Your app will run securely without exposing any secrets in the GitHub repo or UI.
