@@ -1,0 +1,126 @@
+/* Standalone Master Stylesheet for IntelliMin */
+body, .stApp {
+    background-color: #FFFFFF !important;
+    color: #0F172A !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+}
+
+/* Base text styling */
+p, span, label, div, li, td, th {
+    color: #0F172A !important;
+    font-size: 1.01rem;
+}
+
+/* Headings digital navy styling */
+h1, h2, h3, h4, h5, h6 {
+    color: #1E1B4B !important;
+    font-weight: 700 !important;
+}
+
+/* Digital primary header hero banner */
+.digital-header {
+    background: linear-gradient(135deg, #EEF2FF 0%, #E0E7FF 50%, #DBEAFE 100%);
+    padding: 30px 38px;
+    border-radius: 18px;
+    border: 2px solid #3B82F6;
+    box-shadow: 0 8px 24px rgba(37, 99, 235, 0.1);
+    margin-bottom: 24px;
+}
+.digital-header h1 {
+    font-size: 2.85rem !important;
+    font-weight: 800 !important;
+    color: #1D4ED8 !important;
+    margin: 0;
+    line-height: 1.2 !important;
+    letter-spacing: -0.5px;
+}
+.digital-header p {
+    color: #2563EB !important;
+    font-size: 1.1rem !important;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+/* Stat summary card widget */
+.stat-card {
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 18px 20px;
+    border: 1px solid #E2E8F0;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.06);
+}
+.stat-card .label {
+    color: #64748B !important;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.stat-card .number {
+    color: #2563EB !important;
+    font-size: 1.75rem;
+    font-weight: 800;
+    margin-top: 4px;
+}
+
+/* Panel card containers */
+.panel-card {
+    background: #FFFFFF;
+    border-radius: 14px;
+    padding: 26px;
+    border: 1.5px solid #E2E8F0;
+    box-shadow: 0 4px 14px rgba(37, 99, 235, 0.05);
+    margin-bottom: 22px;
+}
+
+/* Type A Report Highlight Box */
+.typea-card {
+    background: #FFFFFF;
+    border-radius: 14px;
+    padding: 26px;
+    border: 1.5px solid #93C5FD;
+    box-shadow: 0 6px 20px rgba(37, 99, 235, 0.08);
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+
+/* Footer elements */
+.footer-divider {
+    border: 0;
+    border-top: 1px solid #E2E8F0;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.footer-text {
+    text-align: center;
+    color: #64748B !important;
+    font-size: 0.92rem;
+    font-weight: 600;
+}
+
+/* Digital Primary Buttons */
+.stButton > button {
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+}
+
+/* Tabs Bar Custom Styling */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+    background-color: #F1F5F9;
+    padding: 8px;
+    border-radius: 12px;
+    border: 1px solid #E2E8F0;
+}
+.stTabs [data-baseweb="tab"] {
+    height: 46px;
+    border-radius: 8px;
+    color: #475569 !important;
+    font-weight: 600 !important;
+}
+.stTabs [aria-selected="true"] {
+    background-color: #FFFFFF !important;
+    color: #2563EB !important;
+    font-weight: 700 !important;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.12);
+}

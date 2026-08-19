@@ -1,0 +1,151 @@
+Text,Category
+"Thank you so much for this introduction and I'm extremely happy to be here visiting my friend Roman Torbeck with whom we've been working for a long time now and through this project, jointly with FNR in Luxembourg, FW in Belgium and the Funding Council here in Slovenia",Discussion
+"So first of all, I'd like to thank most of the collaborators are not written here, but these are the main people I would like to thank them deeply, because without these collaborators I would not be showing anything today",Discussion
+"Sunburg to come if you are from anywhere in the world, because this is extremely international, there are more than 170 nationalities in the country",Discussion
+Place which is growing pretty nicely,Discussion
+"Zoom out, you see where I was born, which is the Paris region",Discussion
+Zooming back where we are in Luxembourg at the moment is at the South here,Discussion
+"Their research efforts, so if you compare Luxembourg tool Slovenia in terms of size you see, Slovenia is about 20,000 kilometers squared for 2 million people",Discussion
+This is just a little olm that we didn't mean,Discussion
+"That's yesterday night, so I needed a little stroll so I decided to go and climb at the top of the Castle",Decision
+Really coming back and thanks to this Castle now I made some progress in the climbing challenge on straw,Discussion
+And you will see later why I'm boring you with this,Action Item
+"OK, so today I'm going to talk at the interface between medicine and mechanics and just to give you an idea, if you develop a new drug developing a new drug is about 4 billion dollars and it can go up to 11 billion dollars",Discussion
+"Today I'll be talking about things that are related to the first page of The Economist, which that was two days ago, which is called Doctor U and not Doctor Who",Discussion
+"Missed Journal is that basically, if you probably know that Apple, Amazon and everybody else all these Giants have been starting to jump into the area of health care because they figure out that perhaps they can make healthcare more efficient than the way it is done at the moment",Discussion
+"And then probably you have also such a watch and maybe you don't, but that's what I used yesterday to make to record my climb up the",Discussion
+And this is what where I start about what we do in in my group is to come up with ways to help medics make more informed decisions so that can start at the moment when medics and surgeons are trained,Discussion
+Prerequisite so I'm now showing you,Discussion
+"That understanding how to help surgeons can be really useful, so we work with neurosurgeons, for example",Discussion
+"So first of all, I'd like to get some, let's say terminology, right",Discussion
+We are solving so it may be conduction,Discussion
+On material models then you need geometry and boundary conditions,Discussion
+"That is the next step, and once you have done that, this is the tongue problem",Discussion
+This is the hardest thing,Discussion
+"Is the second problem, and finally",Discussion
+"And finally, you commit a numerical error about which you cannot do much",Discussion
+"There's not much you can do except calling higher precision, which usually you cannot afford computationally, and then what you see when you do validation, which is comparison with experiments is you see the total error",Discussion
+"In order also to fix ideas, we call validation asking the question are we solving the right problem and we call verification",Discussion
+"Yeah, but you see here, if you look back in time about Aerospace 1903, the Wright Flyer was built and you probably know the store",Discussion
+Read that Wilbur they are brothers right,Discussion
+"And what does this 20,000 years mean in your opinion",Discussion
+"And if you look at data, you see what, let's say, 1300 commercial jet aircraft will losts in about let's say 50 years 1959 to 2000",Action Item
+"And if you look at the decrease, it's quite exponential",Discussion
+Come by accident is because we learned from intuition and theory,Discussion
+"It was done by hand, but afterwards doing things by hand didn't work very well",Discussion
+"Of course, we learned from experiments, so this is a huge wind tunnel which was used to design various airbuses",Discussion
+"Where they are already and then people said OK, I don't like aluminum because this is quite heavy",Discussion
+"Significant, but the problem is they also lead to huge complexities",Discussion
+"As you can imagine that over the A380, which is about 80 meter in weeks wingspan, you have quite a few of these bolted joints and that if you need indeed 2 billion elements for each of them because they are all coupled together, then you should wake up earlier in the morning to start your calculations because it's going to take quite some time",Action Item
+So what people do is they try to reduce the problem size in order,Discussion
+"OK, so now there are at least three ways to reduce the problem size",Discussion
+"We talking about another approach which is extremely simple, which is called adaptivity, driven by error estimators",Discussion
+Part that I will talk about,Action Item
+"So once we figured out where the pools where we decided OK, now we will initiate a crack",Decision
+"Propagation, and this is what you can typically see, so you will see that the crack will propagate",Action Item
+Developed and that took actually 10 years,Discussion
+Commercial software called Morefield Cock and you see on the left what we did before and on the right,Discussion
+How actually we can do that,Discussion
+But now let's see how we move from aerospace to bio mechanics,Discussion
+So what is the motivation to start looking at biomechanics,Discussion
+Moved to trying to understand what's going on in biological systems,Discussion
+On the right you see complexities of neural networks inside the our brains,Discussion
+"So this is what led us to this, because we thought that we had the tools necessary to tackle the problems, but little did we know and you will see now why",Action Item
+So here's why it's difficult,Discussion
+"Is quite important because the challenge is really that everything happens where the needle is inserted, but that you don't know in advance where that will happen",Action Item
+So these are the questions that I asked myself,Discussion
+"Literature, so here is how it works",Discussion
+So the idea of Apple Story Error estimates is first to write this whole thing within a sort of formal setting,Discussion
+AU which satisfies that equation at the top under,Discussion
+"Problem, so it's quite a nice way to turn the problem around",Discussion
+"So this is what people would like to do, so have a digital twin of yourself Doctor you write that will be basically based on sensors that you will be wearing because of course you will think that it's absolutely necessary to be wearing all those gizmos so people will convince you that you should buy one and you will probably do so, and then you will have instrument instrumented human beings that will spit out information, and the key idea will be to figure out what to do with that information in order to make better decisions",Action Item
+We will be talking about people,Action Item
+Then you will make your hypothesis,Action Item
+And then you will use data that you acquire,Action Item
+"The tools that we're going to look at today are what's called the transcription chain, and that's something that Crystal will show you later, and you'll have a chance to experiment with using automated speech recognition",Action Item
+"And then, in a hands-on, we've got some data prepared for you were going to ask you to have a go at this automated speech recognition and alignment",Action Item
+"And this is just a schematic diagram which tells you around preparing for the interview itself, which will often involve some you know, pilot interviews to make sure you're asking the right things",Action Item
+"And the last one will be looking at some of the language features, parts of speech, tagging words, so you can actually use it in many different ways with all these different tiers",Action Item
+The portal page you will see the link here,Action Item
+"This is what it will look like in the end, so you will see some segments with some annotations underneath with simple transcript",Action Item
+So here are results on pass on the VOC seven data set you will see that our results are shown with the blue bars in the graph,Action Item
+Doctor Claire Shaffner Chatterjee vision analytics macroeconomics Catherine Despres Deutsche Bark Research Bank Research COI colleague a pretty much prepared over single partial are pretty much programming K or national security Europe so pretty Unicorn diaper,Action Item
+Not least of the business case is that it will help you get an effective leadership team leadership team in place with several aspects,Action Item
+My quarters rather guns and when budget I really enjoy working in there in a team with them,Decision
+Now web tables that some people here will be involved in a little bit come back to the front,Action Item
+"Having identified the problem and sketched out, the solution should look like",Action Item
+"Of course, our work is not complete",Action Item
+"In which there are some content providers, there are some agents that interact with this content providers, so can browse, search and then we produce their own content that will go in some repository of content and of course",Action Item
+"And this is the presentation overview, so I will talk a lot about left com, which stands for if translated, learn language through corpus analysis and incidentally also stands for lock the bird",Action Item
+"Now what this is a bit more of a dignified concept where you get a definition in Swedish and you can select us help translation in one of many languages, and then you have these Golden eggs and each extends for one letter",Decision
+"We are currently working on implementing a diagnostic placement test, so if you don't know what level you are you can take this test and this will give you a rough estimation of your extra level",Action Item
+"So if we look again at the data so we can see that the data is quite unbalanced, so you will get maybe more document, more tweets about floating's than than tweets about bombing",Action Item
+"OK, so one thing that is mentioned in the story is that all engineers should be very, very careful about the the times that we that we need is like the things that need inside the the server",Action Item
+Give me the site which is the right choice market used for power from which type of problems which is not producing produce be cause For these reasons like is like like crazy here always we should prefer,Action Item
+"So I'm going to explain, it's basically it combines these Java, but it's a software for building data pipelines and you will",Action Item
+OK yeah I will concentrate on 2,Action Item
+"So at the moment we are in the middle of a three year pilot, with the phraseology of verbs, and within this pilot will set up the database and will develop a prototype web application and this tool will be a reference tool for language comprehension and language production in Dutch, and the resource will also be able",Action Item
+The second option will provide the kind of words,Action Item
+"This will show collocates that occur in patterns associated with the meaning, and it will support learners in building constructions longer and more complex than the binary combinations provided by the word sketches",Action Item
+"This is the outline of the talk after having introduced the motivation, I will briefly present some basic technologies so I set text mining and literature based discovery and then I will switch into the main topic of the talk, which is cross domain literature mining where I will focus on two approaches",Action Item
+Certain rates and I do not make any attempt here to be complete,Action Item
+"Instead, I will present some results",Action Item
+"Having identified support vector machines as empirical risk minimizers, we will only use some standard methods nowadays, standard methods from",Action Item
+"First, language acquisition is an extremely complex problem, so we will leave that to the two year olds we are considering here",Action Item
+"Now, if you take a corpus and uploaded and have it automatically parsed, or even if it has been manually verified, there will be errors in that right, especially if the parser has not been specifically made, for example, for",Action Item
+"It's hailing the whole fairy in the height held in the Bay head, so it is closed instead of far out here in the deep, completely out, etc",Action Item
+"And so as I know that many people, when they know the word that things OK, another another again saving I will kill you",Action Item
+So we are ready to hear our second talk of the session and speaker will be Florence with harsh and he will talk about hybrid multiview reconstruction by jump diffusion,Action Item
+So first I will briefly introduce the missing mentation and tourism,Action Item
+"It's adapted to different match densities, so in our low density match we will extract the domain structure",Action Item
+"And as we will see later, thanks to the iterative procedure, the eventual error partitioning do not have critical consequences in the final result",Action Item
+So now we will sample 3D objects on the update partition,Action Item
+"So once we have some parallels with the object, we will accumulate our primitive",Action Item
+Doing this this procedure we will get hybrid models at different scales,Action Item
+"Hello everyone and this is joint work with Sharon Crease, Hillary Nazzi, Kathy Schuler who is sitting in the front row and who can answer all the trickiest questions and Michael will take over from me in the second part of the talk",Action Item
+Here when you go to the chooser that code that is here,Decision
+"And why we and why we choose to build this data set first, is the capacity compared with the English and other prevalent languages",Decision
+"In this work, we choose to use the lemma Ontology",Decision
+"And how we choose the lexical entries injection me the title of the Articles Encyclopedia website are labeled are modeled as the label of an entities, and these labels could be used directly in the Jewish dot lemon as lexical entries",Decision
+"Hence, such as the keyword selection or Edward selection by Match Tap and among them click prediction",Decision
+"Means we first select some candidate patterns and based on uncertainty based active learning, we will find those candidates with most uncertainty and then we employ human labeling to give the better label of these patterns",Decision
+"How do we choose numbers and values for all the new generated data, right",Decision
+So the objective of our stack of this study was the effect of hexavalent chromium compound in take on some biological markers and for this study I choose only to be on markers,Decision
+This treatment schedule was selected to determine to see what are the effects produced by low chromium levels,Decision
+It is my privilege to share today selector Professor Shack Ram do star from Vienna University of Technology,Decision
+"She decided that she was going to destroy the hotel erotica, so here is the hotel erotica",Decision
+1004 probably around the summer of 2004 and involved a land Baron of virtual land Baron that decided he was going to do some development right next to the region of Jesse,Decision
+You can choose an anatomical parcellation,Decision
+Feature selection and then the factor graph model,Decision
+Features our feature selection is important up and you can see from this letter if we get the edge of this image you have feature of edges of four orientations,Decision
+And here are present this presented work where I choose only 111 type model of surface and here are shown to structures,Decision
+"Jim in the atmosphere you have first choose the appropriate calculation model, then choose correct parameters for calculation",Decision
+"Then you can choose from a long list or, well depends a bit on which language of course you've chosen, but you can choose from a list with task you want to perform, and for instance here there is dependency parsing made available through this Judy Pipe Web application, so you can select it",Decision
+"Pinterest is kind of super interesting because Pinterest is the first company which is not a search engine company, at least not one would recognize as a search engine company, not part of the Kabbalah 4 which is actually decided to use",Decision
+We decided to do some,Decision
+"And I happen to choose the wrong one, this one",Decision
+Could stop competing hypothesis and this kind of setting where an agent is actually able to select its own views,Decision
+Is an action selection pipeline that controls an actuator,Decision
+2 views you instead choose to fuse the evidence from both views and now update your category hypoth,Decision
+"An action selection and evidence Fusion, and these are the subtasks, will have to solve to solve active recognition",Decision
+Another important aspect of what we're doing is the nature scale and complexity of the task that we choose to tackle,Decision
+"Simple proof of concept data sets, often with custom robotic setups and we instead choose to make the leap to targeting realistic",Decision
+"Germs toy manipulation tasks where we use the germs data set which consists of robotic arms, manipulating toy objects, and now the agent's task is to select frames from the video and recognize the object",Decision
+So what tools the tools were selected by sharing,Decision
+"I know I decided no, it's not a real big no test bed that's just one text of 1500 character because there is this an upper limit for several tested tools in their web application form",Decision
+"The last four minutes I just want to go over some simulated examples, so we're going to simulate the spread of a disease across nodes in a network will randomly select 1% of the nodes at time",Decision
+02 infected would run for six steps and then we select 6% of the nodes for treatment,Decision
+"As a sparse method, and in that case used in the context where you have a large number of kernels and when you are able to organize this corn kernels in a certain way to select them, or if you have a small number of kernels, then you should use more recent formulation of multiple kernel learning which are non sparse formulations such as the formulation that are based on LP norms that have been proposed by closed and flow",Decision
+The number of clusters does not have to be selected by end,Decision
+What I didn't tell you about is what happens when you end up selecting two clusters which are connected to the same,Decision
+And there are also other sampling approach which are more which are non uniform which sort of select each node with a probability that depends on that node alone and they don't work,Decision
+Hog features are organized and agreed as depicted in the left of this slide,Decision
+"So I'm going to choose subsets of vertices, let's call it C1C2C K some disjoint partition of vertice is and then for each one of them I'm going to compute their modularity, some demo",Decision
+And only subvolumes around the person were selected as positive instances to be,Decision
+"And this means that in this new globalized context, we need to select also differently",Decision
+"And because he's interested, he selects it",Decision
+"So he's just a random example image and find 5 human captions and you can see the captions vary fairly widely in, like in their length and what objects they choose to focus on",Decision
+"Very difficult for us to understand the reliability of the goal of the newer tools, and Furthermore, it's even more difficult to choose the best one for our needs",Decision
+We propose two cohort subset selection algorithms,Decision
+"OK, in order to facilitate the browsing and selection of data",Decision
+"If you want to do the same query in English corpus, you can go to the other languages section and select for example the Coca corpus, which is a very large contemporary American English corpus",Decision

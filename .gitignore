@@ -1,0 +1,25 @@
+# Environment variables and secret keys
+.env
+.env.local
+.env.production
+.streamlit/secrets.toml
+
+# SQLite Database & local runtime files
+*.db
+*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# OS metadata
+.DS_Store
+Thumbs.db
