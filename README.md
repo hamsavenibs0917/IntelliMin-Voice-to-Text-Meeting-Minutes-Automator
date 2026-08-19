@@ -90,6 +90,7 @@ streamlit run app.py
 ```
 Open `http://localhost:8501` in your browser.
 
-Open deployed project in Website `https://intellimin-voice-to-text-meeting-minutes-automator-kvkgd4rcwbi.streamlit.app/` 
-
+Open deployed project in Website 
+```bash
+https://intellimin-voice-to-text-meeting-minutes-automator-kvkgd4rcwbi.streamlit.app/
 ---
