@@ -20,7 +20,7 @@ graph TD
 
 ## 🌟 Key Features & Capabilities
 
-1. 📓 **Two Beginner-Friendly Jupyter Notebooks**:
+1. 📓 **Two Jupyter Notebooks**:
    - **`IntelliMinutes_NLP_Project.ipynb`**: Text Preprocessing, TF-IDF Vectorization, Naive Bayes Classification, Action Item Extraction, WordCloud, & Category Graph.
    - **`Audio_Speech_To_Text_Transcription.ipynb`**: Audio Recording, Media File Loading, Speech-to-Text Transcription (Whisper ASR), & Sentence Formatting.
 
